@@ -1,0 +1,15 @@
+{
+  "name": "hook-sort-ts-imports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "import-sort-cli": "^6.0.0",
+    "import-sort-style-retino": "^7.1.0"
+  }
+}
