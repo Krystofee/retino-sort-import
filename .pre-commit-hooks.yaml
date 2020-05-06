@@ -1,0 +1,9 @@
+- id: sort-imports
+  name: sort-imports
+  entry: import-sort
+  language: node
+  files: \.tsx$
+  args: ['--write']
+
+  # Use additional_dependencies to install the actual node package
+  additional_dependencies: ['import-sort-style-retino@7.1.0', 'import-sort-cli@6.0.0']
