@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "import-sort-cli": "^6.0.0",
-    "import-sort-style-retino": "^7.1.0"
+    "import-sort-style-retino": "^7.1.1"
   }
 }
